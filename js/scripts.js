@@ -1,6 +1,6 @@
 // Variaveis e seleções de eventos
 
-const apiKey = "1604e8f543e2b2ae2519cc586d54fed3";
+const apiKey = "";
 
 const cityInput = document.querySelector("#city-input")
 const searchBtn = document.querySelector("#search")
